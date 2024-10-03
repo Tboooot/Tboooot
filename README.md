@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, mr boot a passionate software engineering student from MOROCCO</h2>
+<h2 align="center">Hi 👋,IM mr boot a passionate software engineering student from MOROCCO</h2>
 
 <img src="https://www.codewars.com/users/Oussama-Sfiri/badges/micro" alt="codewars badge" />
 
