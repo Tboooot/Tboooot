@@ -1,5 +1,8 @@
 <h2 align="center">Hi 👋,IM mr boot a passionate software engineering student from MOROCCO</h2>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mtarza" alt="mtarza's 42 stats" /></a>
+
+
 <img src="https://www.codewars.com/users/Oussama-Sfiri/badges/micro" alt="codewars badge" />
 
 <h3 align="left">Connect with me:</h3>  
