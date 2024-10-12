@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **any information related to the field of programming.**
 
-- 📫 How to reach me **mohamedaitalla964@gmail.com**
+- 📫 How to reach me **amintarzae@gmail.com**
 
 <img align="center" src="https://www.codewars.com/users/m_h_1/badges/large" alt="Codewars Profile Badges"/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/M.H.D.OM.png" alt="TryHackMe M.H.D.O profile">
@@ -53,11 +53,11 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mtarza" alt="mtarza's 42 stats" /></a>
 <div align="center">
-<a href="https://github.com/tarza2">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarza2&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarza2&theme=2077" height="180em" alt="languages graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarza2&theme=2077" height="180em" alt="repo languages graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarza2&theme=2077" height="180em" alt="productivity graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarza2&theme=2077" height="180em" alt="profile-details"/>
-<img src="https://streak-stats.demolab.com?user=tarza2&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="180em" alt="streak graph"  />
+<a href="https://github.com/Tboooot">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tboooot&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tboooot&theme=2077" height="180em" alt="languages graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tboooot&theme=2077" height="180em" alt="repo languages graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tboooot&theme=2077" height="180em" alt="productivity graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tboooot&theme=2077" height="180em" alt="profile-details"/>
+<img src="https://streak-stats.demolab.com?user=Tboooot&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="180em" alt="streak graph"  />
 </div>
