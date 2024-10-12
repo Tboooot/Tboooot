@@ -50,13 +50,7 @@
 
 <p align="right">&nbsp;<img src="https://github-stats-alpha.vercel.app/api?username=Tboooot&theme=radical" alt="Tboooot" /></p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mtarza" alt="mtarza's 42 stats" /></a>
 <div align="center">
-<a href="https://github.com/Tboooot">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tboooot&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tboooot&theme=2077" height="180em" alt="languages graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tboooot&theme=2077" height="180em" alt="repo languages graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tboooot&theme=2077" height="180em" alt="productivity graph"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tboooot&theme=2077" height="180em" alt="profile-details"/>
-<img src="https://streak-stats.demolab.com?user=Tboooot&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="180em" alt="streak graph"  />
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mtarza" alt="mtarza's 42 stats" /></a>
+
 </div>
